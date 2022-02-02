@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Devops 1st Feb 2021</h1>
+    <h1>New user Register for Devops 2nd Feb 2021</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
